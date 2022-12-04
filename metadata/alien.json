@@ -1,0 +1,9 @@
+{
+    "name" : "animal",
+    "description" : "My secound NFT!",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmZYZbjyFHjhoQQMzmPhesGsYMGKA3Xjr48ovkeeN1k1RW",
+    "attributes" : [{
+      "trait_type" : "Background",
+      "value" : "Light Orange"
+    }]
+}

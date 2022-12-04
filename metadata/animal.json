@@ -1,0 +1,9 @@
+{
+    "name" : "animal",
+    "description" : "My first NFT!",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmaLAL1SdVbpufTRJc9g6YCH1Bci28QNE3Bakv8TNaUStb",
+    "attributes" : [{
+      "trait_type" : "Background",
+      "value" : "Dark Blue"
+    }]
+}
